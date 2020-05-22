@@ -1,2 +1,2 @@
-# math_42_project
+# Final Project
 2020 MCM Problem C
